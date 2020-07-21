@@ -18,7 +18,7 @@ Your mission will end.
 | 1/2/3 | Camera modes |
 | I/O/P | Difficulty level |
 | L | Cycle grid types |
-| F/V | Alter sun's mass |
+| F/V | Alter solar mass |
 | G/B | Alter planets' mass |
 | H/N | Simulation speed |
 | J/M | Gravity grid precision |
