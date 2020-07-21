@@ -36,4 +36,6 @@ Your mission will end.
 **Before you start:**
 
 Game starts paused. You can change camera mode, angle and difficulty level. You can change them in-game as well.
-In case of collision your teapot will be reset to starting position. Zaliczone obręcze pozostają zaliczone.
+In case of collision your teapot will be reset to starting position.
+
+**Screenshots:**
