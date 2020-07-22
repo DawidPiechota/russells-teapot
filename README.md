@@ -39,3 +39,8 @@ Game starts paused. You can change camera mode, angle and difficulty level. You 
 In case of collision your teapot will be reset to starting position.
 
 **Screenshots:**
+
+<img src="Screenshots/1.png">
+<img src="Screenshots/2.png">
+<img src="Screenshots/3.png">
+<img src="Screenshots/4.png">
